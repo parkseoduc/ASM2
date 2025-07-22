@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KY_2\\T2409M_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A48809-2D2A-4E22-B4C8-CAA898C8A32A}|T2409M_C#\\T2409M_C#.csproj|d:\\ky_2\\t2409m_c#\\t2409m_c#\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A48809-2D2A-4E22-B4C8-CAA898C8A32A}|T2409M_C#\\T2409M_C#.csproj|solutionrelative:t2409m_c#\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A48809-2D2A-4E22-B4C8-CAA898C8A32A}|T2409M_C#\\T2409M_C#.csproj|d:\\ky_2\\t2409m_c#\\t2409m_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A48809-2D2A-4E22-B4C8-CAA898C8A32A}|T2409M_C#\\T2409M_C#.csproj|solutionrelative:t2409m_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A48809-2D2A-4E22-B4C8-CAA898C8A32A}|T2409M_C#\\T2409M_C#.csproj|d:\\ky_2\\t2409m_c#\\t2409m_c#\\session1\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A48809-2D2A-4E22-B4C8-CAA898C8A32A}|T2409M_C#\\T2409M_C#.csproj|solutionrelative:t2409m_c#\\session1\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A48809-2D2A-4E22-B4C8-CAA898C8A32A}|T2409M_C#\\T2409M_C#.csproj|d:\\ky_2\\t2409m_c#\\t2409m_c#\\session1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A48809-2D2A-4E22-B4C8-CAA898C8A32A}|T2409M_C#\\T2409M_C#.csproj|solutionrelative:t2409m_c#\\session1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A48809-2D2A-4E22-B4C8-CAA898C8A32A}|T2409M_C#\\T2409M_C#.csproj|d:\\ky_2\\t2409m_c#\\t2409m_c#\\session1\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A48809-2D2A-4E22-B4C8-CAA898C8A32A}|T2409M_C#\\T2409M_C#.csproj|solutionrelative:t2409m_c#\\session1\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 70,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\KY_2\\T2409M_C#\\T2409M_C#\\BankAccount.cs",
+              "RelativeDocumentMoniker": "T2409M_C#\\BankAccount.cs",
+              "ToolTip": "D:\\KY_2\\T2409M_C#\\T2409M_C#\\BankAccount.cs",
+              "RelativeToolTip": "T2409M_C#\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T04:05:00.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\KY_2\\T2409M_C#\\T2409M_C#\\session1\\Subject.cs",
+              "RelativeDocumentMoniker": "T2409M_C#\\session1\\Subject.cs",
+              "ToolTip": "D:\\KY_2\\T2409M_C#\\T2409M_C#\\session1\\Subject.cs",
+              "RelativeToolTip": "T2409M_C#\\session1\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:52:53.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\KY_2\\T2409M_C#\\T2409M_C#\\session1\\Student.cs",
+              "RelativeDocumentMoniker": "T2409M_C#\\session1\\Student.cs",
+              "ToolTip": "D:\\KY_2\\T2409M_C#\\T2409M_C#\\session1\\Student.cs",
+              "RelativeToolTip": "T2409M_C#\\session1\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:49:27.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KY_2\\T2409M_C#\\T2409M_C#\\Program.cs",
+              "RelativeDocumentMoniker": "T2409M_C#\\Program.cs",
+              "ToolTip": "D:\\KY_2\\T2409M_C#\\T2409M_C#\\Program.cs",
+              "RelativeToolTip": "T2409M_C#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:47:27.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\KY_2\\T2409M_C#\\T2409M_C#\\session1\\Teacher.cs",
+              "RelativeDocumentMoniker": "T2409M_C#\\session1\\Teacher.cs",
+              "ToolTip": "D:\\KY_2\\T2409M_C#\\T2409M_C#\\session1\\Teacher.cs",
+              "RelativeToolTip": "T2409M_C#\\session1\\Teacher.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:43:24.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 302,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

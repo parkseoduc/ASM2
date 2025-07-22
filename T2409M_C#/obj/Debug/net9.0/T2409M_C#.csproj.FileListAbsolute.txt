@@ -1,0 +1,14 @@
+D:\KY_2\T2409M_C#\T2409M_C#\bin\Debug\net9.0\T2409M_C#.exe
+D:\KY_2\T2409M_C#\T2409M_C#\bin\Debug\net9.0\T2409M_C#.deps.json
+D:\KY_2\T2409M_C#\T2409M_C#\bin\Debug\net9.0\T2409M_C#.runtimeconfig.json
+D:\KY_2\T2409M_C#\T2409M_C#\bin\Debug\net9.0\T2409M_C#.dll
+D:\KY_2\T2409M_C#\T2409M_C#\bin\Debug\net9.0\T2409M_C#.pdb
+D:\KY_2\T2409M_C#\T2409M_C#\obj\Debug\net9.0\T2409M_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY_2\T2409M_C#\T2409M_C#\obj\Debug\net9.0\T2409M_C#.AssemblyInfoInputs.cache
+D:\KY_2\T2409M_C#\T2409M_C#\obj\Debug\net9.0\T2409M_C#.AssemblyInfo.cs
+D:\KY_2\T2409M_C#\T2409M_C#\obj\Debug\net9.0\T2409M_C#.csproj.CoreCompileInputs.cache
+D:\KY_2\T2409M_C#\T2409M_C#\obj\Debug\net9.0\T2409M_C#.dll
+D:\KY_2\T2409M_C#\T2409M_C#\obj\Debug\net9.0\refint\T2409M_C#.dll
+D:\KY_2\T2409M_C#\T2409M_C#\obj\Debug\net9.0\T2409M_C#.pdb
+D:\KY_2\T2409M_C#\T2409M_C#\obj\Debug\net9.0\T2409M_C#.genruntimeconfig.cache
+D:\KY_2\T2409M_C#\T2409M_C#\obj\Debug\net9.0\ref\T2409M_C#.dll
